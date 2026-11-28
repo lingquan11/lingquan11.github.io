@@ -45,6 +45,8 @@ categories: 项目实录
 - 开源
 - 数字IC
 - 脉动阵列
+- Git
+- Docker
 
 写法：在文件头`categories`下一行加，例如`tags: [C++, 矩阵乘法, 性能优化]`。
 

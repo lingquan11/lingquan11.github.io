@@ -25,7 +25,7 @@ actions:
     url: /projects/
     style: primary
   - text: 阅读代表作
-    url: /2026/11/22/cpp-matmul-retrospective-1/
+    url: /2026/11/23/1x4-systolic-mac-fpga/
     style: outline
 
 latest_heading: 最新文章
